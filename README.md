@@ -18,6 +18,7 @@ When eggOS runs direct mode, eggOS will provide a simple step-by-step command-li
 
 When running in an interactive shell or import to another python application, the developer can start creating code set by executing:  
 > new_event = Code("New Event", "PFX", 9) 
+
 while the number is the length of code.  
 Common commands include:  
 > new_event.create(10) #create 10 new codes  
