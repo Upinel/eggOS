@@ -30,5 +30,5 @@ Common commands include:
 > print(new_event) #show the codes  
 
 # Open Source License
-This project is developed stand-alone by Nova Altesse for the term project of CS-521 MSCIS, Boston University and decided to open source after the course.  
+This project is developed stand-alone by Nova Altesse for the term project of CS-521 MSc-InfoSec, Boston University and decided to open source after the course.  
 This project is under the GPL License.
