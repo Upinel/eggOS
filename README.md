@@ -1,6 +1,8 @@
 # eggOS
 Easy Giftcard Generate Operating System (eggOS)
 
+![Sample](eggOS_image.jpeg)
+
 # Intro
 eggOS stand for Easy Giftcard Generate Operating System, wriiten in Python 3, eggOS is a complete and straightforward unique code generating application, suitable for marketing code, gift card, redemption code, promo code, software serial number, etc.  
 eggOS is built to create massive volume unique code (i.e. 100000+ codes) efficiently and prevent repeat codes and easy to confuse characters (i.e. L,I,1,J,O,0,V,U,etc) at the same time.  
