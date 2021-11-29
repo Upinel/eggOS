@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Name:   Nova Altesse Chow
+Name:   Nova Altesse
 Email:  nv@bu.edu
 File:   eggos.py
-Desc:   Enterprise Giftcard Generate Operating System (eggOS)
+Desc:   Easy Giftcard Generate Operating System (eggOS)
 """
 import string, random, os
 from shutil import copy
